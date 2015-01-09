@@ -7,7 +7,7 @@ layout: default
 
 Because Git is open, there's absolutely no reason you can't use more than one of these services, or switch between them at any time. Each one brings its own conveniences for managing changes and access to your repo, but under the hood it's all the same Git.
 
-## Overview
+## Which Option Is Right For Me?
 
 ## Fully Hosted
 
@@ -51,7 +51,9 @@ Most Git SSH hosting is done with what are called "bare" repositories. Bare repo
 
 If you have a SSH account somewhere, you can create a private Git repo:
 
+```
 git init --bare path/to/repo.git
+```
 
 The .git at the end of the directory name is a convention—it denotes a bare Git project, whereas repo/.git is a working copy.
 
