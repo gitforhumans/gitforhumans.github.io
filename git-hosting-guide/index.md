@@ -25,9 +25,15 @@ With a paid plan you can keep your code private.
 
 paid, aimed at small to medium businesses. Code review with a bit more hand holding, built in deployment. If you're using Git to build a website or app, Beanstalk
 
+Beanstalk, like Bitbucket, didn't start out as a Git host (in fact, they're still a very good option for hosting Subversion repos)
+
 ### [Atlassian Bitbucket](https://bitbucket.org/)
 
-free for up to 5 users, including private repos. Bitbucket was originally created as a GitHub-type public host for a rival SCM called Mercurial. Since then they've been acquired by Atlassian (makers of Stash) and added support for Git. I recommend Bitbicket for private/personal projects because you can do a lot for free. GitHub's paid pricing is based on the number of private projects you're hosting but they give you unlimited users. BB gives you unlimited *projects* but charge you to grant access to more people.
+Free for up to 5 users, including private repos. Bitbucket was originally created as a GitHub-type public host for a rival SCM called Mercurial. Since then they've been acquired by Atlassian and added support for Git.
+
+I recommend Bitbicket for private/personal projects because you can do a lot for free. GitHub's paid pricing is based on the number of private projects you're hosting but they give you unlimited users. BB gives you unlimited *projects* but charge you to grant access to more people.
+
+### Fog Creek Kiln
 
 
 ## BYOS (Bring Your Own Server)
@@ -41,6 +47,8 @@ Their other product, GitHub Enterprise, is installed on your own servers (or on 
 ### Atlassian Stash
 
 Stash - self hosted: you install Stash on your own server, and pay a license fee based on the number of users. By definition, Stash is private. It's arguably the best choice if you work on projects where privacy is important, say, in government, healthcare or law.
+
+As of January 2015, Stash costs $10 for 10 users. But if you need more than 10, the price jumps up sharply to $1,800 for up to 25 users.
 
 ### Gitlab
 
